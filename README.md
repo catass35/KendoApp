@@ -23,8 +23,8 @@
 |EX-001|Exemple|Exemple d'exigence possible|0|Source vers la documentation|à définir|A faire|
 |EF-001|Fonctionnelle|Saisie des inscriptions via fichier formaté|3||||
 |EF-002|Fonctionnelle|Saisie des inscriptions via formulaire|1||||
-|EF-003|Fonctionnelle|Saisie des informations de la compétition via formulaire|3||||
-||||||||
+|EF-003|Fonctionnelle|Saisie des informations de la compétition via formulaire|3|||A faire|
+|ENF-001|Non Fonctionnelle|stokage des données dans un fichier format libre (texte, XML, ...)|3||||
 ||||||||
 
 ### Tableau des sources
