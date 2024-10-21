@@ -21,6 +21,7 @@
 |ID|Catégorie|Description de l'exigence|Priorite|Source|Id test|Statut
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |EX-001|Exemple|Exemple d'exigence possible|0|Source vers la documentation|à définir|A faire|
+|EX2|||||||
 ||||||||
 
 ### Tableau des sources
