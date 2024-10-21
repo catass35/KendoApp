@@ -20,7 +20,7 @@
 
 |ID|Catégorie|Description de l'exigence|Priorite|Source|Id test|Statut
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|EF-001|Fonctionnelle|Saisie des inscriptions via fichier formaté|3|||A faire|
+|EF-001|Fonctionnelle|Saisie des inscriptions via fichier formaté|3|pratique fédérale (pré-inscription)||A faire|
 |EF-002|Fonctionnelle|Saisie des inscriptions via formulaire|1|||A faire|
 |EF-003|Fonctionnelle|Saisie des informations de la compétition via formulaire|3|obligation fédérale||A faire|
 |ENF-001|Non Fonctionnelle|fichier format libre (texte, XML, ...) pour le stockage des données|3|choix de format non propriétaire||A faire|
