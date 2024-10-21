@@ -27,8 +27,8 @@
 |EF-004|Fonctionnelle|répartition aléatoire des compétiteurs dans les poules (1ere phase de la compétition)|3|norme fédérale||A faire|
 |EF-005|Fonctionnelle|option : placer 4 compétiteurs identifiés dans chacune des 4 premières poules en position 1|1|norme fédérale pour certaines compétitions||A faire|
 |ENF-002|Non Fonctionnelle|format PDF pour les sorties impression|2|||A faire|
-||||||||
-||||||||
+|EF-006|Fonctionnelle|editer les feuilles de poules|3|modèle fédéral||A faire|
+|EF-007|Fonctionnelle|saisie des résultats des poules via formulaire|3|||A faire|
 ||||||||
 ||||||||
 ||||||||
