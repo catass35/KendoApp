@@ -20,7 +20,6 @@
 
 |ID|Catégorie|Description de l'exigence|Priorite|Source|Id test|Statut
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|EX-001|Exemple|Exemple d'exigence possible|0|Source vers la documentation|à définir|A faire|
 |EF-001|Fonctionnelle|Saisie des inscriptions via fichier formaté|3|||A faire|
 |EF-002|Fonctionnelle|Saisie des inscriptions via formulaire|1|||A faire|
 |EF-003|Fonctionnelle|Saisie des informations de la compétition via formulaire|3|||A faire|
