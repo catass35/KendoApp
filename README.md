@@ -24,8 +24,8 @@
 |EF-002|Fonctionnelle|Saisie des inscriptions via formulaire|1|||A faire|
 |EF-003|Fonctionnelle|Saisie des informations de la compétition via formulaire|3|obligation fédérale||A faire|
 |ENF-001|Non Fonctionnelle|fichier format libre (texte, XML, ...) pour le stockage des données|3|choix de format non propriétaire||A faire|
-|EF-004|Fonctionnelle|répartition aléatoire des compétiteurs dans les poules (1ere phase de la compétition)|3|||A faire|
-|EF-005|Fonctionnelle|option : placer 4 compétiteurs identifiés dans chacune des 4 premières poules en position 1|1|||A faire|
+|EF-004|Fonctionnelle|répartition aléatoire des compétiteurs dans les poules (1ere phase de la compétition)|3|norme fédérale||A faire|
+|EF-005|Fonctionnelle|option : placer 4 compétiteurs identifiés dans chacune des 4 premières poules en position 1|1|norme fédérale pour certaines compétitions||A faire|
 |ENF-002|Non Fonctionnelle|format PDF pour les sorties impression|2|||A faire|
 ||||||||
 ||||||||
