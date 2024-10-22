@@ -29,7 +29,7 @@
 |ENF-002|Non Fonctionnelle|format PDF pour les sorties impression|2|||A faire|
 |EF-006|Fonctionnelle|editer les feuilles de poules|3|modèle fédéral||A faire|
 |EF-007|Fonctionnelle|saisie des résultats des poules via formulaire|3|||A faire|
-|EF-008|Fonctionnelle|option : choix du type de poule (poule de 3, 4 ou 5)|1|||saisie des résultats des poules via formulaire|
+|EF-008|Fonctionnelle|option : choix du type de poule (poule de 3, 4 ou 5)|1|||A faire|
 |EF-009|Fonctionnelle|répartir les compétiteurs sortie de poule dans le tableau final|3|tableau modèle fédéral||A faire|
 |EF-010|Fonctionnelle|saisie des résultats du tableau final via formulaire|3|||A faire|
 |CN-001|Contrainte|langage de développement multiplateforme (windows, linux, mac)|2||||
